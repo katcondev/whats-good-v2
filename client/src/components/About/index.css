@@ -1,0 +1,30 @@
+.btn-primary-lg {
+    background-color: #734136;
+    border-color:#734136;
+    color: #f2e9d8;
+  }
+  
+  .btn-wg {
+    background-color: #734136;
+    border-color:#734136;
+    color: #f2e9d8;
+    width: 100px;
+    height: 40px;;
+  }
+  
+  .btn-wg:hover {
+    background-color: #022873;
+    border-color:#022873;
+    color: #f2e9d8;
+  }
+  
+  .btn-wg:active {
+    background-color: #022873;
+    border-color:#022873;
+    color: #f2e9d8;
+  }
+  
+ .btn-wg h2 {
+    color: #f2e9d8;
+    font-size: 18px;
+}

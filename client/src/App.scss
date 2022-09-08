@@ -1,0 +1,25 @@
+$primary-color: #BF7256;
+
+@import '~animate.css/animate.css';
+
+@font-face {
+  font-family: HelveticaNeue;
+  src: url('./assets/fonts/helveticaneue.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: Oswald;
+  src: url(./assets/fonts/Oswaldmed.ttf) format('ttf');
+}
+
+
+@font-face {
+  font-family: arial;
+  src: url(./assets/fonts/arial.ttf) format('ttf');
+}
+
+input, 
+textarea {
+  font-family: arial;
+}
