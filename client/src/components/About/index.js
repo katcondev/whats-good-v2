@@ -13,7 +13,7 @@ function About() {
           positive or negative. In doing so, other Black people and allies can be aware of businesses' ethics, customer service and more to ensure a beneficial 
           experience overall. <br></br><br></br>Whats-Good mobile app is designed with tools to give Black people foresight into what type of businesses they are will
            giving their resources to more confidently.</p>
-        <button type='submit' className='btn-wg btn'>SAY LESS</button>
+        <Link to="/search"><button className='btn-wg btn'>SAY LESS</button></Link>
     </div>
   )
 }
