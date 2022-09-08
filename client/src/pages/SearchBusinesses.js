@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Jumbotron, Container, Col, Form, Button, Card, CardColumns } from 'react-bootstrap';
+import { Container, Col, Form, Button, Card, CardColumns } from 'react-bootstrap';
 
 import logo from '../../src/assets/images/logowhatsgood_brown.svg'
 import Auth from '../utils/auth';
@@ -92,7 +92,7 @@ const SearchBusinesses = () => {
     <>
       
         <Container className='container animate__animated animate__fadeIn'  >
-          <img className='mt-5 mb-5' src={logo} style={{ width: "65%" }} />
+          <img className='mt-5 mb-5' src={logo} style={{ width: "65%" }} alt="guy eating cupcake" />
           <Form onSubmit={handleFormSubmit}>
             <Form.Row>
               <Col className='mb-2' xs={12} md={8}>

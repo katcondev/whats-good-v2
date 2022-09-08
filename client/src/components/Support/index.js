@@ -1,6 +1,5 @@
 import React from 'react'
-import logo from '../../assets/images/logowhatsgood_brown.svg'
-import { Form, Button, Alert, Col } from 'react-bootstrap';
+import { Form, Button, Col } from 'react-bootstrap';
 import './index.css'
 
 const Support = () => {
@@ -53,4 +52,3 @@ const Support = () => {
 export default Support;
 
 
-{/* <button type='submit' className='btn-wg'><h2 as={Link} to='/search'>SAY LESS</h2></button> */}

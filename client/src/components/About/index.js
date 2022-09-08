@@ -6,7 +6,7 @@ import './index.css'
 function About() {
   return (
     <div className='container animate__animated animate__fadeIn'>
-        <img className='mt-5' src={logo} style={{ width: "65%" }} />
+        <img className='mt-5' src={logo} style={{ width: "65%" }} alt="guy eating cupcake" />
         <h1 className='mt-5'>About</h1>
         <p className='mb-5' >Make the best choice in deciding where to invest your time and money with our Whats-Good mobileapp. It allows BIPOC clients to view and post 
           reviews about their experiences through the lenses of Black people. Our app is to bring awareness to Black peoples' experiences, whether they be 
